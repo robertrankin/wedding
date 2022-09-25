@@ -9,14 +9,12 @@ export default function Home() {
         <title>The wedding of Anna and Boyd</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="The wedding of Anna and Boyd" />
         <iframe src="https://player.twitch.tv/?channel=bobertbankin&parent=thewedding.live&parent=www.thewedding.live" 
           frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620">
         </iframe>
       </main>
-
       <Footer />
     </div>
   )
